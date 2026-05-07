@@ -9,7 +9,7 @@ public class Calculator {
         if (b != 0) {
             return a / b;
         }
-        return a/b;
+        return 0;
     }
     public int times(int a, int b){
         return a*b;
